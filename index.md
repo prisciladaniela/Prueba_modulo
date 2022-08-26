@@ -7,3 +7,5 @@
 
 ## Sebastian es nuestro profesor
 
+## Es un curso bastante interesante y creo que ya me esta gustando algo de la programacion
+
